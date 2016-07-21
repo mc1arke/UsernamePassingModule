@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("UsernamePassingModule")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("An HttpModule for IIS to pass the currently authenitcated username in an HTTP request header to a backend server")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UsernamePassingModule")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright ©  2016 Michael Clarke")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
